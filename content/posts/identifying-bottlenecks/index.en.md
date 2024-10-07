@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Identifying Bottlenecks"
 subtitle: "A Guide for Data Science and Beyond"
 date: 2023-08-18T11:58:09+03:00
@@ -76,4 +76,4 @@ So whether you're into data science (like me) or casual Python coding, smoother 
 # Additional Resources and References
 
 - Provide links to relevant profiling tools and libraries.
-- Include references to articles, books, or online resources that delve deeper into the concepts discussed.
+- Include references to articles, books, or online resources that delve deeper into the concepts discussed. -->

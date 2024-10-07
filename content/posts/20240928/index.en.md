@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Scaling Machine Learning with Rust"
 subtitle: "My Journey to High Performance"
 date: 2024-09-28T13:57:45+03:00
@@ -55,4 +55,4 @@ fn predict(features:&CsVec<f32>) -> f32 {
 
 1. **Don’t hesitate to ask for help**—fresh eyes can spot what you miss.
 2. **Always profile and measure execution time early**—it saves time and reveals the real issues.
-3. **Don’t blindly trust built-in functions**. While they’re good general solutions, custom implementations may be better suited for your needs.
+3. **Don’t blindly trust built-in functions**. While they’re good general solutions, custom implementations may be better suited for your needs. -->
